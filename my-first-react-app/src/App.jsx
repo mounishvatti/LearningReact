@@ -4,7 +4,7 @@ function App() {
   return (
     <> {/* fragment in jsx */}
       <Test />
-      <p>Hello World</p>
+      {/* <p>Hello World</p> */}
     </>
   )
 }
