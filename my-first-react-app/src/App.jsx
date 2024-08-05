@@ -1,10 +1,10 @@
 import './App.css'
+import Test from './test.jsx'
 function App() {
   return (
-    <>
-      <div>
-        <h1>My First Vite + React App</h1>
-      </div>
+    <> {/* fragment in jsx */}
+      <Test />
+      <p>Hello World</p>
     </>
   )
 }
