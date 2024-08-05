@@ -1,5 +1,6 @@
 body{
     background-color: rgb(24, 24, 24);
+    text-align: center;
 }
 
 .title {
@@ -14,4 +15,7 @@ body{
     padding: 10px;
     border-radius: 10px;
     border: none;
+}
+a{
+    color: rgb(161, 149, 149);
 }
