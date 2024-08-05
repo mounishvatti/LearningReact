@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(24, 24, 24);
+}
+
+.title {
+    font-weight: bolder;
+    font-size: xx-large;
+    color: red;
+}
+
+.btn {
+    color: rgb(0, 0, 0);
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
